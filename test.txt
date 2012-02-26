@@ -1,2 +1,3 @@
 Hello World!
 I have changed this file as you see :)
+Sergey's third string
